@@ -1,4 +1,4 @@
-<img width="1100" height="300" alt="DataCodingGIFbyDataCamp (2)" src="https://github.com/user-attachments/assets/095b51da-5fe7-4996-a16c-af194db4c5ff" />
+<img width="1000" height="150" alt="DataCodingGIFbyDataCamp (2)" src="https://github.com/user-attachments/assets/095b51da-5fe7-4996-a16c-af194db4c5ff" />
 
 
 ## Overview
@@ -15,7 +15,7 @@
 
 + Serves as a  digital companion alongside the textbook.
 
-# Contents
+## Contents
 + Python Basics: Variables, data types, operators,print(),input(),errors,flowchart,python character set,tokens
 
 + Control Structures: Conditional statements,sequential statements,iterative statements,selection statements
@@ -28,14 +28,14 @@
 
 + Colab Notebooks: Hands-on practice with examples
 
-# Usage
+## Usage
 + Open notebooks in Google Colab or any Python IDE.
 
 + Follow the notes and run code examples step by step.
 
 + Use this repo for study and doubt clarification — not for redistribution.
 
-# Contribution Guidelines
+## Contribution Guidelines
 + Issues & Suggestions: Students and educators may open issues for doubt clarification or suggest improvements.
 
 + No Unauthorized Cloning: Please do not clone, copy, or redistribute this repository without proper credit.
@@ -44,7 +44,7 @@
 
 + Acknowledgment Required: Any use of this material must acknowledge Jyothi Settibathula  as the creator and maintainer.
 
-# License & Credit
+## License & Credit
 This repository is intended only for educational purposes.
 It is based on the official syllabus but prepared and maintained as students guide (Reinforced the official syllabus) by Jyothi Settibathula .
 Please do not clone, copy, or redistribute without proper credit.
