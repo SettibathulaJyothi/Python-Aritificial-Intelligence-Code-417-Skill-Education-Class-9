@@ -1,9 +1,11 @@
-# Overview
+<img width="200" height="200" alt="artificialintelligencefuturismGIF" src="https://github.com/user-attachments/assets/e64ab99e-7497-4979-9cbd-d7be7d80354a" /> 
+
+## Overview
 + This repository is created and maintained by Jyothi Settibathula  as a supportive educational resource for students studying Artificial Intelligence-Python (Class 9 Skill Education – Code 417-Touchpad Ver.3.0).
 
 + It is based on the official syllabus and textbook, but provides notes and Python topics with code examples to make concepts easier to understand and practice.
 
-# Purpose
+## Purpose
 + This helps students clarify doubts with ready-to-run code.
 
 + Provides Google Colab notebooks for interactive learning.
@@ -45,3 +47,7 @@
 This repository is intended only for educational purposes.
 It is based on the official syllabus but prepared and maintained as students guide (Reinforced the official syllabus) by Jyothi Settibathula .
 Please do not clone, copy, or redistribute without proper credit.
+
+
+
+
