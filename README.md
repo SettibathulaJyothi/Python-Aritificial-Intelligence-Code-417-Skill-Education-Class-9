@@ -1,4 +1,5 @@
-<img width="200" height="200" alt="artificialintelligencefuturismGIF" src="https://github.com/user-attachments/assets/e64ab99e-7497-4979-9cbd-d7be7d80354a" /> 
+<img width="1100" height="300" alt="DataCodingGIFbyDataCamp (2)" src="https://github.com/user-attachments/assets/095b51da-5fe7-4996-a16c-af194db4c5ff" />
+
 
 ## Overview
 + This repository is created and maintained by Jyothi Settibathula  as a supportive educational resource for students studying Artificial Intelligence-Python (Class 9 Skill Education – Code 417-Touchpad Ver.3.0).
